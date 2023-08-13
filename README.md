@@ -1,0 +1,1 @@
+An express and EJS implementation for generating static websites fast. 
