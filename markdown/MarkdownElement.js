@@ -1,0 +1,3 @@
+exports.markdownElementMap = {
+    "**": ["<b>", "</b>"]
+}

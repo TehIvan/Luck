@@ -1,0 +1,20 @@
+{
+    "path": "/",
+    "content": [
+        {
+            "type": "h1",
+            "data": "Luck",
+            "class": "luck-title"
+        },
+        {
+            "type": "h2",
+            "data": "Static Page Generator",
+            "class": "luck-subtitle"
+        },
+        {
+            "type": "h1",
+            "data": "Static Page Generator",
+            "class": "luck-subtitle"
+        }
+    ]
+}
